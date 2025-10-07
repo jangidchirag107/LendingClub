@@ -8,7 +8,7 @@ I worked to clean the data, analyze customer behavior, and visualize patterns th
 
 🎯 Objective
 
-> The main objective of this project was to:
+ The main objective of this project was to:
 
 > Understand and explore the loan dataset.
 
@@ -114,4 +114,4 @@ This project gave me confidence in working with financial data and taught me how
 
 > Seaborn
 
-Jupyter Notebook
+> Jupyter Notebook
