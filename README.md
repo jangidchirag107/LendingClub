@@ -8,38 +8,38 @@ I worked to clean the data, analyze customer behavior, and visualize patterns th
 
 🎯 Objective
 
-The main objective of this project was to:
+> The main objective of this project was to:
 
-Understand and explore the loan dataset.
+> Understand and explore the loan dataset.
 
-Clean the data by removing duplicates, null values, and unnecessary columns.
+> Clean the data by removing duplicates, null values, and unnecessary columns.
 
-Analyze trends and relationships between loan amount, term, interest rate, and other features.
+> Analyze trends and relationships between loan amount, term, interest rate, and other features.
 
-Visualize the findings through various types of plots like bar charts, histograms, and pair plots.
+> Visualize the findings through various types of plots like bar charts, histograms, and pair plots.
 
-Provide recommendations based on insights from the analysis.
+> Provide recommendations based on insights from the analysis.
 
 🧩 Dataset
 
 The dataset contains information about loans issued by a lending company.
 It includes features like:
 
-Loan amount
+> Loan amount
 
-Term
+> Term
 
-Interest rate
+> Interest rate
 
-Annual income
+> Annual income
 
-Loan status
+> Loan status
 
-Purpose
+> Purpose
 
-Grade
+> Grade
 
-Payment history, etc.
+> Payment history, etc.
 
 The dataset helps us understand which types of customers are more likely to default on their loans.
 
@@ -47,11 +47,11 @@ The dataset helps us understand which types of customers are more likely to defa
 
 I started by checking for:
 
-Null values
+> Null values
 
-Duplicate rows
+> Duplicate rows
 
-Unnecessary or unrelated columns
+> Unnecessary or unrelated columns
 
 After detecting issues, I dropped the unused columns and filled or removed missing values. This helped in preparing a clean dataset that could be used for better analysis and visualization.
 
@@ -60,13 +60,13 @@ After detecting issues, I dropped the unused columns and filled or removed missi
 I used different visualization libraries like Matplotlib and Seaborn to explore the relationships between features.
 Some of the plots included:
 
-Loan amount vs Interest rate
+> Loan amount vs Interest rate
 
-Loan purpose distribution
+> Loan purpose distribution
 
-Count of loan status (fully paid vs charged off)
+> Count of loan status (fully paid vs charged off)
 
-Income level and default rate
+> Income level and default rate
 
 These visualizations helped me find key insights such as which customer segments were riskier and how loan amount or term affected repayment.
 
@@ -104,14 +104,14 @@ This project gave me confidence in working with financial data and taught me how
 
 🛠️ Technologies Used
 
-Python
+> Python
 
-Pandas
+> Pandas
 
-NumPy
+> NumPy
 
-Matplotlib
+> Matplotlib
 
-Seaborn
+> Seaborn
 
 Jupyter Notebook
